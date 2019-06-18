@@ -42,7 +42,7 @@ nav ul li a{
   display:block;
   color: #fff;
   padding: 0 20px;
-  text-align: center;
+  text-align: right;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
@@ -82,12 +82,12 @@ text-align:center;
 }
 
 .pimg1{
-  background:url('../img/img1.jpg');
+  background:url("");
   min-height:100%;
 }
 
 .pimg2{
-  background-image:url('../img/img2.jpg');
+  background-image:url('https://media.giphy.com/media/e9pFONc1qhUje/giphy.gif');
   min-height:400px;
 }
 
